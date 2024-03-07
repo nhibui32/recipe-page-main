@@ -1,0 +1,33 @@
+
+*{
+    box-sizing: border box;
+  }
+  body {
+    width: 1440px;
+    font-size: 16px;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  
+  
+  }
+  
+  h2 {
+    color: hsl(14, 45%, 36%);
+  }
+  
+  div{
+    border: 1px solid red;
+  }
+  
+  #container {
+    box-sizing: border-box;
+    width: 75%;
+    margin: 50px 100px 50px 50px;
+    padding: 25px;
+    border-radius: 50px;
+    background: white;
+    justify-content: center;
+    align-items: center;
+  
+  }
